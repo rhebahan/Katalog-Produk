@@ -10,10 +10,13 @@ Aplikasi desktop sederhana untuk mengelola katalog produk, dibuat dengan JavaFX 
 - Penyimpanan lokal: data tersimpan di file SQLite dan dibuat otomatis saat aplikasi pertama kali dijalankan.
 
 ## Tampilan Aplikasi
-### Menginput Data
+### Menginput Data Produk
 <img width="1920" height="1080" alt="Screenshot 2026-11-19 144331" src="https://github.com/user-attachments/assets/b2aa048b-decd-4934-a31c-da13d6a2ace9" />
-### Mengedit Data
 <img width="1920" height="1080" alt="Screenshot 2026-11-19 134553" src="https://github.com/user-attachments/assets/c91b4ebf-1805-46ad-a955-ebb68c8e24ed" />
+
+### Mengedit Data Produk
 <img width="1920" height="1080" alt="Screenshot 2026-11-19 134626" src="https://github.com/user-attachments/assets/519f2ca6-3cb7-4a5c-8365-b45527629529" />
+
+### Menghapus Data Produk
 <img width="1920" height="1080" alt="Screenshot 2026-11-19 134641" src="https://github.com/user-attachments/assets/085d4b79-9d26-4c86-87fb-5ad1dd505942" />
 <img width="1920" height="1080" alt="Screenshot 2026-11-19 134652" src="https://github.com/user-attachments/assets/69eec352-efec-4b16-afe1-086563c82bc5" />
