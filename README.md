@@ -16,6 +16,7 @@ Aplikasi desktop sederhana untuk mengelola katalog produk, dibuat dengan JavaFX 
 
 ### Mengedit Data Produk
 <img width="1920" height="1080" alt="Screenshot 2026-11-19 134626" src="https://github.com/user-attachments/assets/519f2ca6-3cb7-4a5c-8365-b45527629529" />
+<img width="1920" height="1080" alt="Screenshot 2026-11-19 144653" src="https://github.com/user-attachments/assets/256bbc7d-f604-413c-934a-44904c3ef7e4" />
 
 ### Menghapus Data Produk
 <img width="1920" height="1080" alt="Screenshot 2026-11-19 134641" src="https://github.com/user-attachments/assets/085d4b79-9d26-4c86-87fb-5ad1dd505942" />
